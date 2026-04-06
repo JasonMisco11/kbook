@@ -1,0 +1,3 @@
+-- Supabase migrations placeholder
+-- Add your SQL migration files in this directory
+-- Example: 001_create_jobs_table.sql, 002_create_plumbers_table.sql
