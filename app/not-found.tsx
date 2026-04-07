@@ -90,7 +90,7 @@ export default function NotFound() {
 
       {/* Footer attribution */}
       <p className="absolute bottom-8 text-xs text-white/20">
-        KwameServices — Expert Plumbing in Ghana
+        KwameServices — the slogan maybe, I'll ask the man
       </p>
 
       {/* Inline keyframes via style tag */}
