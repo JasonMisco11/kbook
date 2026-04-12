@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  /* Disable Turbopack — Windows EPERM workaround */
 };
 
 export default nextConfig;
